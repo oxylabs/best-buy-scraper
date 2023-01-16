@@ -1,5 +1,7 @@
 # Best Buy Scraper
 
+Ensure you stay ahead of your competitors with our real-time Best Buy Scraper. Aimed at effortlessly gathering data, it quickly delivers results. We’ve provided a brief guide below that shows precisely how the Best Buy Scraper functions with specific code examples that will help you understand and use the scraper hassle-free.
+
 ### How it works
 
 You can get Best Buy results by providing your own URLs to our service. We can return the HTML of any Best Buy page you like.
@@ -81,3 +83,7 @@ Find code examples for other programming languages [**here**](https://github.com
     ]
 }
 ```
+
+What is provided above shows the exact process of how you can extract necessary data effortlessly with Best Buy Scraper. Easily collect product information, ranging from reviews and prices to product descriptions and other features, thus allowing you to retain or gain a competitive advantage.
+
+If you have any questions, you can always contact us at hello@oxylabs.io. or via live chat on our website.
