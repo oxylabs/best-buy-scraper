@@ -4,7 +4,7 @@
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/eWsVUJrnG5)
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
 
 Ensure you stay ahead of your competitors with our real-time [Best Buy Scraper](https://oxy.yt/Baga). Aimed at effortlessly gathering data, it quickly delivers results. We’ve provided a brief guide below that shows precisely how the Best Buy Scraper functions with specific code examples that will help you understand and use the scraper hassle-free.
 
